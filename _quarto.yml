@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - papers/**
+    - reynolds_cv.pdf
 
 website:
   title: "Nicholas Reynolds"
