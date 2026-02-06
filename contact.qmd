@@ -1,0 +1,13 @@
+---
+title: "Contact"
+---
+
+## Contact
+
+- Email: [nicholas.reynolds@example.com](mailto:nicholas.reynolds@example.com)
+- Google Scholar: [Profile](https://scholar.google.com)
+- GitHub: [nreynolds88](https://github.com/nreynolds88)
+
+## Office
+
+Affiliation and office address to be added.

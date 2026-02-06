@@ -1,0 +1,60 @@
+---
+title: ""
+---
+
+:::{.hero}
+## Nicholas Reynolds
+
+Economist  
+Affiliation: To be updated
+
+I study health, human capital, and intergenerational mobility. My research uses historical and contemporary microdata to understand how early-life conditions shape long-run economic outcomes.
+
+[CV (PDF)](reynolds_cv.pdf){.btn .btn-primary .me-2}
+[Google Scholar](https://scholar.google.com){.btn .btn-outline-primary .me-2}
+[Email](mailto:nicholas.reynolds@example.com){.btn .btn-outline-primary .me-2}
+[GitHub](https://github.com/nreynolds88){.btn .btn-outline-primary}
+:::
+
+## Featured Paper
+
+:::{.card .research-card}
+::: {.card-body}
+### AER: Insights (2025) Lead Article
+Placeholder summary: concise two- to three-sentence overview of the main research question, core empirical strategy, and headline result goes here.
+
+Links: [Paper](#) | [Appendix](#) | [Replication Files](#) | [Journal Page](#)
+:::
+:::
+
+## Working Papers
+
+:::{.card .research-card}
+::: {.card-body}
+### Health and Human Capital Decline
+Draft in progress. Link this card to the newest version when ready.
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Mortality and Long-Run Outcomes
+Draft in progress. Link this card to the newest version when ready.
+:::
+:::
+
+## Work In Progress
+
+:::{.card .research-card}
+::: {.card-body}
+### Local Average Cohort Effects
+Early-stage project description and expected contribution.
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Candidate Origins and Labor Market Dynamics
+Early-stage project description and expected contribution.
+:::
+:::

@@ -1,0 +1,71 @@
+---
+title: "Research"
+---
+
+## Published
+
+:::{.card .research-card}
+::: {.card-body}
+### AER: Insights (2025) Lead Article
+Placeholder abstract text. Replace with final summary and links after publication metadata is finalized.
+
+Links: [Journal](#) | [Working Version](#) | [Replication](#)
+:::
+:::
+
+## Working Papers
+
+:::{.card .research-card}
+::: {.card-body}
+### Health and Human Capital Decline
+[PDF](papers/health_and_human_capital_decline.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Mortality
+[PDF](papers/mortality.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Reynolds Job Market Paper
+[PDF](papers/reynolds_jmp.pdf)
+:::
+:::
+
+## Work In Progress
+
+:::{.card .research-card}
+::: {.card-body}
+### Local Average Cohort Effects
+[PDF](papers/reynolds_local_average_cohort_effects.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Stunted Adolescence
+[PDF](papers/reynolds_stunted_adolescence.pdf)
+:::
+:::
+
+## Papers Archive
+
+- [GLMR-MISI](papers/GLMR-MISI.pdf)
+- [GLMR-PTLRID](papers/GLMR-PTLRID.pdf)
+- [candidate_origins](papers/candidate_origins.pdf)
+- [health_and_human_capital_decline](papers/health_and_human_capital_decline.pdf)
+- [mortality](papers/mortality.pdf)
+- [reynolds_cohort_decline](papers/reynolds_cohort_decline.pdf)
+- [reynolds_cohort_decline_short](papers/reynolds_cohort_decline_short.pdf)
+- [reynolds_cv](papers/reynolds_cv.pdf)
+- [reynolds_jmp](papers/reynolds_jmp.pdf)
+- [reynolds_jmp_10_31](papers/reynolds_jmp_10_31.pdf)
+- [reynolds_local_average_cohort_effects](papers/reynolds_local_average_cohort_effects.pdf)
+- [reynolds_mortality](papers/reynolds_mortality.pdf)
+- [reynolds_mortality_appendices](papers/reynolds_mortality_appendices.pdf)
+- [reynolds_stunted_adolescence](papers/reynolds_stunted_adolescence.pdf)
+- [wp17-44r](papers/wp17-44r.pdf)

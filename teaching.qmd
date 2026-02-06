@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+## Courses
+
+:::{.card .research-card}
+::: {.card-body}
+### Current Course
+Course title, institution, and semester details.
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Previous Course
+Course title, institution, and semester details.
+:::
+:::
+
+## Materials
+
+- Syllabus: coming soon
+- Notes: coming soon
+- Office hours: to be posted each term
