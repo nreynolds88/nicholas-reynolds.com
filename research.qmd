@@ -9,7 +9,7 @@ title: "Research"
 ### The Broad Decline in Health and Human Capital of Americans Born after 1947
 *American Economic Review: Insights* (Lead article)
 
-Links: [Journal version](#) | [Working paper version](papers/reynolds_cohort_decline_short.pdf)
+Links: [Journal version](https://www.aeaweb.org/articles?id=10.1257/aeri.20230588) | [Working paper version](papers/reynolds_cohort_decline_short.pdf)
 :::
 :::
 
