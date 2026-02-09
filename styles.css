@@ -3,7 +3,7 @@
 main.content {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 1.5rem 1rem 3rem;
+  padding: 1.65rem 1rem 3rem;
 }
 
 body {
@@ -17,17 +17,32 @@ h1, h2, h3, h4 {
   color: #0f2d3d;
 }
 
+h1 {
+  font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
 h2 {
-  margin-top: 0.25rem;
-  margin-bottom: 0.9rem;
-  font-size: 1.05rem;
+  margin-top: 0.35rem;
+  margin-bottom: 0.85rem;
+  font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
+  font-size: 0.9rem;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
   color: #4b6472;
+}
+
+h3 {
+  font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
 }
 
 p, li {
   line-height: 1.7;
+}
+
+p {
+  margin-bottom: 0.85rem;
 }
 
 a {
@@ -91,12 +106,23 @@ a:hover {
   border: 1px solid #dfe5eb;
   border-radius: 8px;
   box-shadow: none;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1rem;
   background: #ffffff;
 }
 
 .research-card .card-body {
-  padding: 0.95rem 1rem;
+  padding: 0.9rem 1rem;
+}
+
+.research-card h3 {
+  margin-top: 0.1rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.12rem;
+  color: #102f3f;
+}
+
+.research-card p:last-child {
+  margin-bottom: 0;
 }
 
 .home-layout {
@@ -109,13 +135,15 @@ a:hover {
 .home-sidebar {
   border-right: 1px solid #e5eaef;
   padding-right: 1.4rem;
+  position: sticky;
+  top: 5.2rem;
 }
 
 .profile-headshot {
-  width: 96px;
-  height: 96px;
+  width: 84px;
+  height: 84px;
   object-fit: cover;
-  border-radius: 6px;
+  border-radius: 5px;
   border: 1px solid #d4dde6;
   margin-bottom: 0.8rem;
 }
@@ -144,6 +172,11 @@ a:hover {
 
 .home-main ul {
   padding-left: 1.15rem;
+  margin-bottom: 1rem;
+}
+
+.home-main li {
+  margin-bottom: 0.4rem;
 }
 
 .course-list h3 {
@@ -157,6 +190,17 @@ a:hover {
 .course-list hr {
   margin: 0.95rem 0 1.05rem;
   border-color: #e1e8ee;
+}
+
+.course-list {
+  border-left: 2px solid #e2e8ef;
+  padding-left: 1rem;
+}
+
+#title-block-header {
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e6ecf2;
 }
 
 @media (max-width: 768px) {
@@ -174,6 +218,7 @@ a:hover {
   }
 
   .home-sidebar {
+    position: static;
     border-right: none;
     border-bottom: 1px solid #e5eaef;
     padding-right: 0;
@@ -181,7 +226,7 @@ a:hover {
   }
 
   .profile-headshot {
-    width: 84px;
-    height: 84px;
+    width: 72px;
+    height: 72px;
   }
 }
