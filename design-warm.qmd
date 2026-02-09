@@ -1,0 +1,35 @@
+---
+title: "Design Preview - Warm Journal"
+---
+
+<style>
+.demo-shell {
+  background: linear-gradient(165deg, #f9f3ea 0%, #f5ecdd 100%);
+  border: 1px solid #e6d6ba;
+  border-radius: 16px;
+  padding: 1.25rem;
+  color: #2c2924;
+  font-family: Georgia, "Times New Roman", serif;
+}
+.demo-shell h2, .demo-shell h3 { color: #8a3f00; letter-spacing: -0.01em; }
+.demo-shell a { color: #8a3f00; text-decoration: underline; border-bottom: none; }
+.demo-shell .btn { background: #8a3f00; border: 1px solid #8a3f00; color: #fff; margin-right: .35rem; border-radius: 6px; }
+.demo-shell .btn.alt { background: #d97706; border-color: #d97706; color: #fff; }
+.demo-shell .card { border: 1px solid #dcc8a7; border-radius: 8px; background: #fffaf1; padding: .95rem 1rem; margin-top: 1rem; }
+</style>
+
+:::{.demo-shell}
+## Nicholas Reynolds
+Lecturer (~Assistant Professor) in Economics, University of Essex
+
+I received my PhD from Brown University in 2020. I'm a labo(u)r and health economist focusing on health, human capital, and innovation.
+
+[CV](#){.btn} [Research](#){.btn .alt}
+
+:::{.card}
+### News
+The Broad Decline in Health and Human Capital of Americans Born after 1947 was published as lead article in *AER: Insights*.
+:::
+:::
+
+[Back to options](design-options.qmd)
