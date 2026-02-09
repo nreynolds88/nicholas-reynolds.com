@@ -2,33 +2,25 @@
 title: ""
 ---
 
-:::{.home-layout}
-::: {.home-sidebar}
-<img src="nicholas_reynolds_headshot.jpg" alt="Nicholas Reynolds" class="profile-headshot">
+:::{.nr-home}
+:::{.nr-hero}
+<img src="nicholas_reynolds_headshot.jpg" alt="Nicholas Reynolds" class="nr-headshot">
 
-### Nicholas Reynolds
-<p class="profile-summary">Applied microeconomics | Health, human capital, and cohort change in the United States</p>
+# Nicholas Reynolds
+<p class="nr-summary">Applied microeconomics | Health, human capital, and cohort change in the United States</p>
 
-:::{.sidebar-meta}
-Lecturer (~Assistant Professor) in Economics
+<p class="nr-meta">Lecturer (~Assistant Professor) in Economics<br>
+Department of Economics<br>
+University of Essex</p>
 
-Department of Economics
-
-University of Essex
-:::
-
-:::{.profile-links}
+:::{.nr-button-row}
 [CV](reynolds_cv.pdf){.btn .btn-outline-primary .btn-sm}
-
 [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=tlxD2MEAAAAJ){.btn .btn-outline-primary .btn-sm}
-
 [University Profile](https://www.essex.ac.uk/people/reyno30804/nicholas-reynolds){.btn .btn-outline-primary .btn-sm}
-
 [Email](mailto:nicholas.reynolds@essex.ac.uk){.btn .btn-outline-primary .btn-sm}
 :::
 :::
 
-::: {.home-main}
 ## About
 I received my PhD from Brown University in 2020.
 
@@ -41,5 +33,4 @@ For current research and publications, see the [Research](research.qmd) page.
 - **2025 | AEA Featured Chart.** Figure 1 selected as an [AEA Featured Chart](https://www.aeaweb.org/research/chart/american-health-capital-decline).
 - **Oct 2025 | LSE Business Review.** [What caused the American decline of the past 60 years?](https://blogs.lse.ac.uk/businessreview/2025/10/21/what-caused-the-american-decline-of-the-past-60-years/).
 - **Aug 2024 | Commentary.** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/08/was-the-great-stagnation-originally-a-problem-of-human-capital.html) and [Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2024-08-27/great-stagnation-when-did-it-actually-begin?utm_source=website&utm_medium=share&utm_campaign=twitter&sref=htOHjx5Y).
-:::
 :::
