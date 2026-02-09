@@ -4,6 +4,7 @@ project:
   resources:
     - papers/**
     - reynolds_cv.pdf
+    - nicholas_reynolds_headshot.jpg
 
 website:
   title: "Nicholas Reynolds"
@@ -17,8 +18,6 @@ website:
         text: Teaching
       - href: contact.qmd
         text: Contact
-      - href: design-options.qmd
-        text: Design Options
 
 format:
   html:

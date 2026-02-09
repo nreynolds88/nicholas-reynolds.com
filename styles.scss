@@ -1,7 +1,7 @@
-$body-bg: #f8fafc;
-$body-color: #1f2a36;
-$link-color: #0f5c8e;
-$primary: #0f5c8e;
+$body-bg: #f3f8f6;
+$body-color: #1a2a25;
+$link-color: #065f46;
+$primary: #065f46;
 
 main.content {
   max-width: 900px;
@@ -19,13 +19,13 @@ p, li {
 
 a {
   text-decoration: none;
-  border-bottom: 1px solid rgba(15, 92, 142, 0.35);
+  border-bottom: 1px solid rgba(6, 95, 70, 0.35);
   transition: border-color 120ms ease, color 120ms ease;
 }
 
 a:hover {
-  border-bottom-color: rgba(15, 92, 142, 0.9);
-  color: #0c4d77;
+  border-bottom-color: rgba(6, 95, 70, 0.9);
+  color: #044a37;
 }
 
 .btn {
@@ -34,9 +34,9 @@ a:hover {
 }
 
 .hero {
-  border: 1px solid #deebf4;
+  border: 1px solid #c1ded2;
   border-radius: 14px;
-  background: linear-gradient(165deg, #f7fbff 0%, #eff5fb 100%);
+  background: linear-gradient(165deg, #edf7f4 0%, #e2f1ec 100%);
   padding: 1.4rem;
   margin: 0.6rem 0 2rem;
 }
@@ -44,12 +44,33 @@ a:hover {
 .hero h2 {
   margin-top: 0;
   margin-bottom: 0.5rem;
+  color: #065f46;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 180px;
+  gap: 1.1rem;
+  align-items: center;
+}
+
+.hero-photo {
+  text-align: right;
+}
+
+.hero-headshot {
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 14px;
+  border: 2px solid #b7dacc;
+  box-shadow: 0 10px 22px rgba(6, 95, 70, 0.16);
 }
 
 .research-card {
-  border: 1px solid #e1e9f0;
+  border: 1px solid #cce3da;
   border-radius: 12px;
-  box-shadow: 0 8px 22px rgba(15, 34, 52, 0.05);
+  box-shadow: 0 8px 22px rgba(6, 56, 43, 0.08);
   margin-bottom: 1rem;
   background: #ffffff;
 }
@@ -59,7 +80,7 @@ a:hover {
 }
 
 .navbar {
-  border-bottom: 1px solid #e3ecf3;
+  border-bottom: 1px solid #cbe2d8;
 }
 
 @media (max-width: 768px) {
@@ -70,59 +91,17 @@ a:hover {
   .hero {
     padding: 1.1rem;
   }
-}
 
-.design-preview {
-  border: 1px solid #d8e3ed;
-  border-radius: 14px;
-  padding: 1.1rem 1.15rem;
-  margin-bottom: 1.5rem;
-}
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
 
-.design-preview h3 {
-  margin-top: 0;
-}
+  .hero-photo {
+    text-align: left;
+  }
 
-.design-preview .btn {
-  margin-right: 0.4rem;
-}
-
-.style-essex {
-  background: linear-gradient(165deg, #f3f8fc 0%, #eaf4fb 100%);
-  border-color: #b8d2e6;
-  color: #1f2a36;
-}
-
-.style-essex h3 {
-  color: #003865;
-}
-
-.style-warm {
-  background: linear-gradient(165deg, #f9f3ea 0%, #f5ecdd 100%);
-  border-color: #e6d6ba;
-  color: #2c2924;
-}
-
-.style-warm h3 {
-  color: #8a3f00;
-}
-
-.style-modern {
-  background: linear-gradient(165deg, #eef6fb 0%, #e5f0f8 100%);
-  border-color: #c8dceb;
-  color: #1f2a36;
-}
-
-.style-modern h3 {
-  color: #0f5c8e;
-}
-
-.style-emerald {
-  background: linear-gradient(165deg, #edf7f4 0%, #e2f1ec 100%);
-  border-color: #b8ddd0;
-  color: #1a2a25;
-}
-
-.style-emerald h3 {
-  color: #065f46;
+  .hero-headshot {
+    width: 140px;
+    height: 140px;
+  }
 }
