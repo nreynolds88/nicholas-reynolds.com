@@ -6,7 +6,7 @@ $primary: #065f46;
 main.content {
   max-width: 900px;
   margin: 0 auto;
-  padding: 1.25rem 1rem 3rem;
+  padding: 1.5rem 1rem 3rem;
 }
 
 h1, h2, h3, h4 {
@@ -34,14 +34,14 @@ a:hover {
 }
 
 .hero {
-  border: 1px solid #c1ded2;
-  border-radius: 14px;
-  background: linear-gradient(165deg, #edf7f4 0%, #e2f1ec 100%);
-  padding: 1.4rem;
-  margin: 0.6rem 0 2rem;
+  border: 1px solid #d3e6de;
+  border-radius: 12px;
+  background: #ffffff;
+  padding: 1.2rem;
+  margin: 0.2rem 0 1.6rem;
 }
 
-.hero h2 {
+.hero h1, .hero h2 {
   margin-top: 0;
   margin-bottom: 0.5rem;
   color: #065f46;
@@ -49,22 +49,22 @@ a:hover {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: 1fr 180px;
-  gap: 1.1rem;
+  grid-template-columns: 120px 1fr;
+  gap: 1rem;
   align-items: center;
 }
 
 .hero-photo {
-  text-align: right;
+  text-align: left;
 }
 
 .hero-headshot {
-  width: 170px;
-  height: 170px;
+  width: 108px;
+  height: 108px;
   object-fit: cover;
-  border-radius: 14px;
-  border: 2px solid #b7dacc;
-  box-shadow: 0 10px 22px rgba(6, 95, 70, 0.16);
+  border-radius: 10px;
+  border: 1px solid #bfded1;
+  box-shadow: 0 6px 16px rgba(6, 95, 70, 0.12);
 }
 
 .research-card {
@@ -80,20 +80,44 @@ a:hover {
 }
 
 .navbar {
-  border-bottom: 1px solid #cbe2d8;
+  position: sticky;
+  top: 0;
+  z-index: 1030;
+  border-bottom: 2px solid #0b5f47;
+  background: #ffffff !important;
+  box-shadow: 0 4px 14px rgba(6, 56, 43, 0.08);
+}
+
+.navbar .navbar-brand {
+  font-weight: 700;
+  color: #0b5f47;
+}
+
+.navbar .nav-link {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.navbar .nav-link:hover, .navbar .nav-link:focus {
+  color: #065f46 !important;
+}
+
+.navbar .nav-link.active {
+  color: #065f46 !important;
 }
 
 @media (max-width: 768px) {
   main.content {
-    padding: 1rem 0.85rem 2rem;
+    padding: 1.1rem 0.85rem 2rem;
   }
 
   .hero {
-    padding: 1.1rem;
+    padding: 1rem;
   }
 
   .hero-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 92px 1fr;
+    align-items: start;
   }
 
   .hero-photo {
@@ -101,7 +125,7 @@ a:hover {
   }
 
   .hero-headshot {
-    width: 140px;
-    height: 140px;
+    width: 84px;
+    height: 84px;
   }
 }

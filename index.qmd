@@ -4,9 +4,12 @@ title: ""
 
 :::{.hero}
 :::{.hero-grid}
-::: {.hero-text}
-## Nicholas Reynolds
+::: {.hero-photo}
+![Nicholas Reynolds headshot](nicholas_reynolds_headshot.jpg){.hero-headshot}
+:::
 
+::: {.hero-text}
+# Nicholas Reynolds
 Lecturer (~Assistant Professor) in Economics, University of Essex
 
 I received my PhD from Brown University in 2020.
@@ -18,20 +21,14 @@ I'm a labo(u)r and health economist. Much of my research focuses on the health a
 [University Profile](https://www.essex.ac.uk/people/reyno30804/nicholas-reynolds){.btn .btn-outline-primary .me-2}
 [Email](mailto:nicholas.reynolds@essex.ac.uk){.btn .btn-outline-primary}
 :::
-::: {.hero-photo}
-![Nicholas Reynolds headshot](nicholas_reynolds_headshot.jpg){.hero-headshot}
 :::
 :::
 
 ## News
 
-:::{.card .research-card}
-::: {.card-body}
-### The Broad Decline in Health and Human Capital of Americans Born after 1947
-Recently published as the lead article of *American Economic Review: Insights*. Figure 1 was selected as an American Economic Association Featured Chart with a short write-up by Tyler Smith.
+- [The Broad Decline in Health and Human Capital of Americans Born after 1947](https://www.aeaweb.org/articles?id=10.1257/aeri.20230588) was published as the lead article in *American Economic Review: Insights*.
+- Figure 1 was selected as an [AEA Featured Chart](https://www.aeaweb.org/research/chart/american-health-capital-decline).
+- I also wrote a related piece for [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2025/10/21/what-caused-the-american-decline-of-the-past-60-years/).
+- Commentary is available at [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/08/was-the-great-stagnation-originally-a-problem-of-human-capital.html) and [Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2024-08-27/great-stagnation-when-did-it-actually-begin?utm_source=website&utm_medium=share&utm_campaign=twitter&sref=htOHjx5Y).
 
-I also wrote a short related piece for LSE Business Review.
-
-Related links: [AEA Featured Chart](https://www.aeaweb.org/research/chart/american-health-capital-decline) | [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2025/10/21/what-caused-the-american-decline-of-the-past-60-years/) | [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/08/was-the-great-stagnation-originally-a-problem-of-human-capital.html) | [Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2024-08-27/great-stagnation-when-did-it-actually-begin?utm_source=website&utm_medium=share&utm_campaign=twitter&sref=htOHjx5Y)
-:::
-:::
+[Research Overview](research.qmd){.btn .btn-outline-primary}
