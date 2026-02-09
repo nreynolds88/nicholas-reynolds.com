@@ -4,10 +4,11 @@ title: "Contact"
 
 ## Contact
 
-- Email: [nicholas.reynolds@example.com](mailto:nicholas.reynolds@example.com)
+- Email: [nicholas.reynolds@essex.ac.uk](mailto:nicholas.reynolds@essex.ac.uk)
 - Google Scholar: [Profile](https://scholar.google.com)
 - GitHub: [nreynolds88](https://github.com/nreynolds88)
 
 ## Office
 
-Affiliation and office address to be added.
+Department of Economics  
+University of Essex

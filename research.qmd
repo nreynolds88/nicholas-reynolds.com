@@ -2,70 +2,103 @@
 title: "Research"
 ---
 
-## Published
+## Accepted and Published Papers
 
 :::{.card .research-card}
 ::: {.card-body}
-### AER: Insights (2025) Lead Article
-Placeholder abstract text. Replace with final summary and links after publication metadata is finalized.
+### The Broad Decline in Health and Human Capital of Americans Born after 1947
+*American Economic Review: Insights* (Lead article)
 
-Links: [Journal](#) | [Working Version](#) | [Replication](#)
-:::
-:::
-
-## Working Papers
-
-:::{.card .research-card}
-::: {.card-body}
-### Health and Human Capital Decline
-[PDF](papers/health_and_human_capital_decline.pdf)
+Links: [Journal version](#) | [Working paper version](papers/reynolds_cohort_decline_short.pdf)
 :::
 :::
 
 :::{.card .research-card}
 ::: {.card-body}
-### Mortality
-[PDF](papers/mortality.pdf)
+### Increased Mortality of White Americans and a Decline in the Health of Cohorts Born after World War II
+*Journal of Human Resources*
+
+Links: [Working paper version](papers/reynolds_mortality.pdf) | [Appendices](papers/reynolds_mortality_appendices.pdf)
 :::
 :::
 
 :::{.card .research-card}
 ::: {.card-body}
-### Reynolds Job Market Paper
-[PDF](papers/reynolds_jmp.pdf)
+### The Paper Trail of Knowledge Spillovers: Evidence from Patent Interferences
+With Ina Ganguli (UMass Amherst) and Jeffrey Lin (Philadelphia Fed)  
+*American Economic Journal: Applied Economics*
+
+Links: [Working paper version](papers/wp17-44r.pdf)
 :::
 :::
 
-## Work In Progress
+## New Working Papers
+
+:::{.card .research-card}
+::: {.card-body}
+### Patent Text and Long-Run Innovation Dynamics: The Critical Role of Model Selection
+With Ina Ganguli (UMass Amherst), Jeffrey Lin (Philadelphia Fed), and Vitaly Meursault (Philadelphia Fed)
+
+Notes: NBER WP; presented at NBER Summer Institute 2025.  
+Links: [Paper](papers/GLMR-PTLRID.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Stunted Adolescence: The Anomalous Growth Pattern of Americans Born in the 1960s
+Notes: IZA discussion paper; submitted.  
+Links: [Paper](papers/reynolds_stunted_adolescence.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Candidate Origins of the Recent Stagnation in Midlife Mortality in the United States
+With Sam Arenberg (Houston) and Sam Stripling
+
+Notes: Prepared for general science journals; presented at NBER Summer Institute 2025.  
+Links: [Paper](papers/candidate_origins.pdf)
+:::
+:::
 
 :::{.card .research-card}
 ::: {.card-body}
 ### Local Average Cohort Effects
-[PDF](papers/reynolds_local_average_cohort_effects.pdf)
+Links: [Paper](papers/reynolds_local_average_cohort_effects.pdf)
+:::
+:::
+
+## Selected Work In Progress
+
+:::{.card .research-card}
+::: {.card-body}
+### The Cohort Signature of American Mortality Stagnation
+With Sam Arenberg (Houston) and Sam Stripling
 :::
 :::
 
 :::{.card .research-card}
 ::: {.card-body}
-### Stunted Adolescence
-[PDF](papers/reynolds_stunted_adolescence.pdf)
+### Deindustrialization as a Double-edged Sword: Employment and Environmental Effects
+With Michel Serafinelli (KCL)
 :::
 :::
 
-## Papers Archive
+:::{.card .research-card}
+::: {.card-body}
+### Sorting, Neighborhood Effects, and Intergenerational Mobility in Spatial Equilibrium
+With Jeffrey Lin (Philadelphia Fed) and Bryan Stuart (Philadelphia Fed)
+:::
+:::
 
-- [GLMR-MISI](papers/GLMR-MISI.pdf)
-- [GLMR-PTLRID](papers/GLMR-PTLRID.pdf)
-- [candidate_origins](papers/candidate_origins.pdf)
-- [health_and_human_capital_decline](papers/health_and_human_capital_decline.pdf)
-- [mortality](papers/mortality.pdf)
-- [reynolds_cohort_decline](papers/reynolds_cohort_decline.pdf)
-- [reynolds_cohort_decline_short](papers/reynolds_cohort_decline_short.pdf)
-- [reynolds_cv](papers/reynolds_cv.pdf)
-- [reynolds_jmp](papers/reynolds_jmp.pdf)
-- [reynolds_jmp_10_31](papers/reynolds_jmp_10_31.pdf)
-- [reynolds_local_average_cohort_effects](papers/reynolds_local_average_cohort_effects.pdf)
-- [reynolds_mortality](papers/reynolds_mortality.pdf)
-- [reynolds_mortality_appendices](papers/reynolds_mortality_appendices.pdf)
-- [reynolds_stunted_adolescence](papers/reynolds_stunted_adolescence.pdf)
-- [wp17-44r](papers/wp17-44r.pdf)
+## Old Working Papers
+
+:::{.card .research-card}
+::: {.card-body}
+### The Broad Decline in Health and Human Capital of Americans Born after 1947
+Much longer version of what became the AER: Insights paper. Also includes results that turned into the "Stunted Adolescence" and "Local Average Cohort Effects" working papers, plus additional material.
+
+Links: [Long version](papers/reynolds_cohort_decline.pdf)
+:::
+:::

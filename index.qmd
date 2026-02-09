@@ -5,56 +5,54 @@ title: ""
 :::{.hero}
 ## Nicholas Reynolds
 
-Economist  
-Affiliation: To be updated
+Lecturer (~Assistant Professor) in Economics, University of Essex
 
-I study health, human capital, and intergenerational mobility. My research uses historical and contemporary microdata to understand how early-life conditions shape long-run economic outcomes.
+I received my PhD from Brown University in 2020.
+
+I'm a labo(u)r and health economist. Much of my research focuses on the health and human capital of Americans and innovation.
 
 [CV (PDF)](reynolds_cv.pdf){.btn .btn-primary .me-2}
 [Google Scholar](https://scholar.google.com){.btn .btn-outline-primary .me-2}
-[Email](mailto:nicholas.reynolds@example.com){.btn .btn-outline-primary .me-2}
+[Email](mailto:nicholas.reynolds@essex.ac.uk){.btn .btn-outline-primary .me-2}
 [GitHub](https://github.com/nreynolds88){.btn .btn-outline-primary}
 :::
 
-## Featured Paper
+## News
 
 :::{.card .research-card}
 ::: {.card-body}
-### AER: Insights (2025) Lead Article
-Placeholder summary: concise two- to three-sentence overview of the main research question, core empirical strategy, and headline result goes here.
+### The Broad Decline in Health and Human Capital of Americans Born after 1947
+Recently published as the lead article of *American Economic Review: Insights*. Figure 1 was selected as an American Economic Association Featured Chart with a short write-up by Tyler Smith.
 
-Links: [Paper](#) | [Appendix](#) | [Replication Files](#) | [Journal Page](#)
+Related links: [AEA Featured Chart](#) | [LSE Business Review](#) | [Marginal Revolution / Bloomberg Opinion](#)
 :::
 :::
 
-## Working Papers
-
-:::{.card .research-card}
-::: {.card-body}
-### Health and Human Capital Decline
-Draft in progress. Link this card to the newest version when ready.
-:::
-:::
+## Research
 
 :::{.card .research-card}
 ::: {.card-body}
-### Mortality and Long-Run Outcomes
-Draft in progress. Link this card to the newest version when ready.
-:::
-:::
+### Accepted and Published Papers
+Includes AER: Insights, Journal of Human Resources, and AEJ: Applied Economics publications.
 
-## Work In Progress
-
-:::{.card .research-card}
-::: {.card-body}
-### Local Average Cohort Effects
-Early-stage project description and expected contribution.
+[View section](research.qmd#accepted-and-published-papers)
 :::
 :::
 
 :::{.card .research-card}
 ::: {.card-body}
-### Candidate Origins and Labor Market Dynamics
-Early-stage project description and expected contribution.
+### New Working Papers
+Current working papers on innovation, mortality, and cohort effects.
+
+[View section](research.qmd#new-working-papers)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Selected Work In Progress
+Ongoing projects in mortality, deindustrialization, and intergenerational mobility.
+
+[View section](research.qmd#selected-work-in-progress)
 :::
 :::
