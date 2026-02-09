@@ -17,6 +17,8 @@ website:
         text: Teaching
       - href: contact.qmd
         text: Contact
+      - href: design-options.qmd
+        text: Design Options
 
 format:
   html:

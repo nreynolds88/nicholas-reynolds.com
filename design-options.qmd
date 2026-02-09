@@ -1,0 +1,49 @@
+---
+title: "Design Options"
+---
+
+Choose the style you want, then I will apply it across the full site and remove this page.
+
+## 1) Essex Classic
+
+:::{.design-preview .style-essex}
+### Nicholas Reynolds
+Lecturer (~Assistant Professor) in Economics, University of Essex
+
+I study health, human capital, and innovation.
+
+[CV](#){.btn .btn-sm} [Research](#){.btn .btn-sm .btn-outline-dark}
+:::
+
+## 2) Warm Journal
+
+:::{.design-preview .style-warm}
+### Nicholas Reynolds
+Lecturer (~Assistant Professor) in Economics, University of Essex
+
+I study health, human capital, and innovation.
+
+[CV](#){.btn .btn-sm} [Research](#){.btn .btn-sm .btn-outline-dark}
+:::
+
+## 3) Modern Minimal Blue
+
+:::{.design-preview .style-modern}
+### Nicholas Reynolds
+Lecturer (~Assistant Professor) in Economics, University of Essex
+
+I study health, human capital, and innovation.
+
+[CV](#){.btn .btn-sm} [Research](#){.btn .btn-sm .btn-outline-dark}
+:::
+
+## 4) Emerald Professional
+
+:::{.design-preview .style-emerald}
+### Nicholas Reynolds
+Lecturer (~Assistant Professor) in Economics, University of Essex
+
+I study health, human capital, and innovation.
+
+[CV](#){.btn .btn-sm} [Research](#){.btn .btn-sm .btn-outline-dark}
+:::
