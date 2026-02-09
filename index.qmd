@@ -8,11 +8,9 @@ title: ""
 
 # Nicholas Reynolds
 
-I'm a labo(u)r and health economist. Much of my research focuses on the health and human capital of Americans and innovation.
+I'm a labor and health economist at the University of Essex.
 
-<p class="nr-meta">Lecturer (~Assistant Professor) in Economics<br>
-Department of Economics<br>
-University of Essex</p>
+Much of my research focuses on the health and human capital of Americans and innovation.
 
 :::{.nr-button-row}
 [CV](reynolds_cv.pdf){.btn .btn-outline-primary .btn-sm}
