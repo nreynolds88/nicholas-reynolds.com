@@ -2,29 +2,24 @@
 title: "Teaching"
 ---
 
-## University of Essex Courses
+Below is a list of courses taught at the University of Essex.
 
-:::{.card .research-card}
-::: {.card-body}
+:::{.course-list}
 ### Undergraduate Health Economics
-Taught 2021-2025.
-:::
-:::
+University of Essex  
+Course taught in 2021-2025.
 
-:::{.card .research-card}
-::: {.card-body}
+---
+
 ### PhD Applied Research Methods (Causal Inference)
-Taught 2021-2024.
-:::
-:::
+University of Essex  
+Course taught in 2021-2024.
 
-:::{.card .research-card}
-::: {.card-body}
+---
+
 ### Masters-level Introduction to Economics and Public Policy (co-lecturer)
-Taught 2023-2025.
+University of Essex  
+Course taught in 2023-2025.
 :::
-:::
-
-## Materials
 
 Please email me if you're interested in my teaching materials.
