@@ -14,8 +14,7 @@ I'm a labo(u)r and health economist. Much of my research focuses on the health a
 [CV (PDF)](reynolds_cv.pdf){.btn .btn-primary .me-2}
 [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=tlxD2MEAAAAJ){.btn .btn-outline-primary .me-2}
 [University Profile](https://www.essex.ac.uk/people/reyno30804/nicholas-reynolds){.btn .btn-outline-primary .me-2}
-[Email](mailto:nicholas.reynolds@essex.ac.uk){.btn .btn-outline-primary .me-2}
-[GitHub](https://github.com/nreynolds88){.btn .btn-outline-primary}
+[Email](mailto:nicholas.reynolds@essex.ac.uk){.btn .btn-outline-primary}
 :::
 
 ## News
