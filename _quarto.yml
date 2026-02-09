@@ -10,13 +10,15 @@ website:
   title: "Nicholas Reynolds"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.qmd#top
         text: Home
-      - href: research.qmd
+      - href: index.qmd#news
+        text: News
+      - href: index.qmd#research
         text: Research
-      - href: teaching.qmd
+      - href: index.qmd#teaching
         text: Teaching
-      - href: contact.qmd
+      - href: index.qmd#contact
         text: Contact
 
 format:

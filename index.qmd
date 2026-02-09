@@ -2,12 +2,13 @@
 title: ""
 ---
 
-:::{.nr-home}
+:::{#top .nr-home}
 :::{.nr-hero}
 <img src="nicholas_reynolds_headshot.jpg" alt="Nicholas Reynolds" class="nr-headshot">
 
 # Nicholas Reynolds
-<p class="nr-summary">Applied microeconomics | Health, human capital, and cohort change in the United States</p>
+
+I'm a labo(u)r and health economist. Much of my research focuses on the health and human capital of Americans and innovation.
 
 <p class="nr-meta">Lecturer (~Assistant Professor) in Economics<br>
 Department of Economics<br>
@@ -21,16 +22,147 @@ University of Essex</p>
 :::
 :::
 
-## About
-I received my PhD from Brown University in 2020.
-
-I'm a labo(u)r and health economist. Much of my research focuses on the health and human capital of Americans and innovation.
-
-For current research and publications, see the [Research](research.qmd) page.
-
-## News
+## News {#news}
 - **2025 | AER: Insights lead article.** [The Broad Decline in Health and Human Capital of Americans Born after 1947](https://www.aeaweb.org/articles?id=10.1257/aeri.20230588).
 - **2025 | AEA Featured Chart.** Figure 1 selected as an [AEA Featured Chart](https://www.aeaweb.org/research/chart/american-health-capital-decline).
 - **Oct 2025 | LSE Business Review.** [What caused the American decline of the past 60 years?](https://blogs.lse.ac.uk/businessreview/2025/10/21/what-caused-the-american-decline-of-the-past-60-years/).
 - **Aug 2024 | Commentary.** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/08/was-the-great-stagnation-originally-a-problem-of-human-capital.html) and [Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2024-08-27/great-stagnation-when-did-it-actually-begin?utm_source=website&utm_medium=share&utm_campaign=twitter&sref=htOHjx5Y).
+
+## Research {#research}
+
+### Accepted and Published Papers
+
+:::{.card .research-card}
+::: {.card-body}
+### The Broad Decline in Health and Human Capital of Americans Born after 1947
+*American Economic Review: Insights* (Lead article)
+
+Links: [Journal version](https://www.aeaweb.org/articles?id=10.1257/aeri.20230588) | [Working paper version](papers/reynolds_cohort_decline_short.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Increased Mortality of White Americans and a Decline in the Health of Cohorts Born after World War II
+*Journal of Human Resources*
+
+Links: [Working paper version](papers/reynolds_mortality.pdf) | [Appendices](papers/reynolds_mortality_appendices.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### The Paper Trail of Knowledge Spillovers: Evidence from Patent Interferences
+With Ina Ganguli (UMass Amherst) and Jeffrey Lin (Philadelphia Fed)  
+*American Economic Journal: Applied Economics*
+
+Links: [Working paper version](papers/wp17-44r.pdf)
+:::
+:::
+
+### New Working Papers
+
+:::{.card .research-card}
+::: {.card-body}
+### Patent Text and Long-Run Innovation Dynamics: The Critical Role of Model Selection
+With Ina Ganguli (UMass Amherst), Jeffrey Lin (Philadelphia Fed), and Vitaly Meursault (Philadelphia Fed)
+
+Notes: NBER WP; presented at NBER Summer Institute 2025.  
+Links: [Paper](papers/GLMR-PTLRID.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Stunted Adolescence: The Anomalous Growth Pattern of Americans Born in the 1960s
+Notes: IZA discussion paper; submitted.  
+Links: [Paper](papers/reynolds_stunted_adolescence.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Candidate Origins of the Recent Stagnation in Midlife Mortality in the United States
+With Sam Arenberg (Houston) and Sam Stripling
+
+Notes: Prepared for general science journals; presented at NBER Summer Institute 2025.  
+Links: [Paper](papers/candidate_origins.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Local Average Cohort Effects
+Links: [Paper](papers/reynolds_local_average_cohort_effects.pdf)
+:::
+:::
+
+### Selected Work In Progress
+
+:::{.card .research-card}
+::: {.card-body}
+### The Cohort Signature of American Mortality Stagnation
+With Sam Arenberg (Houston) and Sam Stripling
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Deindustrialization as a Double-edged Sword: Employment and Environmental Effects
+With Michel Serafinelli (KCL)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Sorting, Neighborhood Effects, and Intergenerational Mobility in Spatial Equilibrium
+With Jeffrey Lin (Philadelphia Fed) and Bryan Stuart (Philadelphia Fed)
+:::
+:::
+
+### Old Working Papers
+
+:::{.card .research-card}
+::: {.card-body}
+### The Broad Decline in Health and Human Capital of Americans Born after 1947
+Much longer version of what became the AER: Insights paper. Also includes results that turned into the "Stunted Adolescence" and "Local Average Cohort Effects" working papers, plus additional material.
+
+Links: [Long version](papers/reynolds_cohort_decline.pdf)
+:::
+:::
+
+## Teaching {#teaching}
+
+Below is a list of courses taught at the University of Essex.
+
+:::{.course-list}
+### Undergraduate Health Economics
+University of Essex  
+Course taught in 2021-2025.
+
+---
+
+### PhD Applied Research Methods (Causal Inference)
+University of Essex  
+Course taught in 2021-2024.
+
+---
+
+### Masters-level Introduction to Economics and Public Policy (co-lecturer)
+University of Essex  
+Course taught in 2023-2025.
+:::
+
+Please email me if you're interested in my teaching materials.
+
+## Contact {#contact}
+
+- Email: [nicholas.reynolds@essex.ac.uk](mailto:nicholas.reynolds@essex.ac.uk)
+- Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&authuser=1&user=tlxD2MEAAAAJ)
+- University of Essex: [Profile](https://www.essex.ac.uk/people/reyno30804/nicholas-reynolds)
+
+## Office
+
+Department of Economics  
+University of Essex
 :::

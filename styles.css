@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@500;600;700&family=Source+Serif+4:wght@400;600;700&display=swap");
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
   color: #1f2937;
@@ -7,9 +11,9 @@ body {
 }
 
 main.content {
-  max-width: 890px;
+  max-width: 880px;
   margin: 0 auto;
-  padding: 2rem 1rem 3.5rem;
+  padding: 2.1rem 1rem 3.8rem;
 }
 
 h1, h2, h3, h4 {
@@ -21,18 +25,20 @@ h1 {
   font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
   font-size: 2rem;
   font-weight: 700;
-  margin: 0.45rem 0 0.4rem;
+  margin-top: 0.55rem;
+  margin-bottom: 0.5rem;
 }
 
 h2 {
   font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: #607285;
-  margin-top: 2.3rem;
-  margin-bottom: 0.8rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.85rem;
+  scroll-margin-top: 88px;
 }
 
 h3 {
@@ -103,22 +109,15 @@ a:hover {
 }
 
 .nr-hero {
-  margin-bottom: 2rem;
+  margin-bottom: 1.8rem;
 }
 
 .nr-headshot {
   width: 136px;
   height: 136px;
   object-fit: cover;
-  border-radius: 18px;
+  border-radius: 16px;
   border: 1px solid #d7e1e9;
-}
-
-.nr-summary {
-  font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
-  font-size: 0.92rem;
-  color: #4c5f6d;
-  margin-bottom: 0.55rem;
 }
 
 .nr-meta {
@@ -143,15 +142,28 @@ a:hover {
   letter-spacing: 0.01em;
 }
 
-.nr-home ul {
+.nr-home > p {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.nr-home > ul {
   text-align: left;
   max-width: 760px;
   margin: 0 auto;
   padding-left: 1.2rem;
 }
 
-.nr-home li {
-  margin-bottom: 0.52rem;
+.nr-home > ul li {
+  margin-bottom: 0.5rem;
+}
+
+.course-list {
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: left;
 }
 
 .course-list h3 {
@@ -178,6 +190,7 @@ a:hover {
   box-shadow: none;
   margin-bottom: 1rem;
   background: #ffffff;
+  text-align: left;
 }
 
 .research-card .card-body {
@@ -197,7 +210,7 @@ a:hover {
 
 @media (max-width: 768px) {
   main.content {
-    padding: 1.5rem 0.85rem 2.5rem;
+    padding: 1.6rem 0.85rem 2.8rem;
   }
 
   .navbar .container-fluid {
@@ -215,5 +228,10 @@ a:hover {
 
   .nr-button-row {
     gap: 0.4rem;
+  }
+
+  .nr-home > ul,
+  .course-list {
+    max-width: 100%;
   }
 }
