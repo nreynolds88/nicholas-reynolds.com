@@ -7,18 +7,24 @@ title: ""
 <img src="nicholas_reynolds_headshot.jpg" alt="Nicholas Reynolds" class="profile-headshot">
 
 ### Nicholas Reynolds
-Lecturer (~Assistant Professor) in Economics  
-Department of Economics  
+<p class="profile-summary">Applied microeconomics | Health, human capital, and cohort change in the United States</p>
+
+:::{.sidebar-meta}
+Lecturer (~Assistant Professor) in Economics
+
+Department of Economics
+
 University of Essex
+:::
 
 :::{.profile-links}
-[CV](reynolds_cv.pdf)
+[CV](reynolds_cv.pdf){.btn .btn-outline-primary .btn-sm}
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=tlxD2MEAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=tlxD2MEAAAAJ){.btn .btn-outline-primary .btn-sm}
 
-[University Profile](https://www.essex.ac.uk/people/reyno30804/nicholas-reynolds)
+[University Profile](https://www.essex.ac.uk/people/reyno30804/nicholas-reynolds){.btn .btn-outline-primary .btn-sm}
 
-[Email](mailto:nicholas.reynolds@essex.ac.uk)
+[Email](mailto:nicholas.reynolds@essex.ac.uk){.btn .btn-outline-primary .btn-sm}
 :::
 :::
 
@@ -31,9 +37,9 @@ I'm a labo(u)r and health economist. Much of my research focuses on the health a
 For current research and publications, see the [Research](research.qmd) page.
 
 ## News
-- [The Broad Decline in Health and Human Capital of Americans Born after 1947](https://www.aeaweb.org/articles?id=10.1257/aeri.20230588) was published as the lead article in *American Economic Review: Insights*.
-- Figure 1 was selected as an [AEA Featured Chart](https://www.aeaweb.org/research/chart/american-health-capital-decline).
-- I also wrote a related piece for [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2025/10/21/what-caused-the-american-decline-of-the-past-60-years/).
-- Commentary is available at [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/08/was-the-great-stagnation-originally-a-problem-of-human-capital.html) and [Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2024-08-27/great-stagnation-when-did-it-actually-begin?utm_source=website&utm_medium=share&utm_campaign=twitter&sref=htOHjx5Y).
+- **2025 | AER: Insights lead article.** [The Broad Decline in Health and Human Capital of Americans Born after 1947](https://www.aeaweb.org/articles?id=10.1257/aeri.20230588).
+- **2025 | AEA Featured Chart.** Figure 1 selected as an [AEA Featured Chart](https://www.aeaweb.org/research/chart/american-health-capital-decline).
+- **Oct 2025 | LSE Business Review.** [What caused the American decline of the past 60 years?](https://blogs.lse.ac.uk/businessreview/2025/10/21/what-caused-the-american-decline-of-the-past-60-years/).
+- **Aug 2024 | Commentary.** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/08/was-the-great-stagnation-originally-a-problem-of-human-capital.html) and [Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2024-08-27/great-stagnation-when-did-it-actually-begin?utm_source=website&utm_medium=share&utm_campaign=twitter&sref=htOHjx5Y).
 :::
 :::
