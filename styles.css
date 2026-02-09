@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@600;700&family=Source+Serif+4:wght@400;600;700&display=swap");
 
-$body-bg: #ffffff;
-$body-color: #1f2937;
-$link-color: #0f4d6e;
-$primary: #0f4d6e;
-
 main.content {
   max-width: 1000px;
   margin: 0 auto;
@@ -13,6 +8,8 @@ main.content {
 
 body {
   font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  color: #1f2937;
+  background: #ffffff;
 }
 
 h1, h2, h3, h4 {
@@ -34,6 +31,7 @@ p, li {
 }
 
 a {
+  color: #0f4d6e;
   text-decoration: none;
   border-bottom: 1px solid rgba(15, 77, 110, 0.35);
   transition: border-color 120ms ease, color 120ms ease;

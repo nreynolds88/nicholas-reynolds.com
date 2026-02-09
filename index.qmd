@@ -4,7 +4,7 @@ title: ""
 
 :::{.home-layout}
 ::: {.home-sidebar}
-![Nicholas Reynolds headshot](nicholas_reynolds_headshot.jpg){.profile-headshot}
+<img src="nicholas_reynolds_headshot.jpg" alt="Nicholas Reynolds" class="profile-headshot">
 
 ### Nicholas Reynolds
 Lecturer (~Assistant Professor) in Economics  
