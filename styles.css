@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@500;600;700&family=Source+Serif+4:wght@400;600;700&display=swap");
 
+:root {
+  --section-detail-color: #1e3a8a;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -187,7 +191,7 @@ a:hover {
 
 .nr-research p,
 .nr-research li {
-  color: #1e3a8a;
+  color: var(--section-detail-color);
 }
 
 .nr-research .research-card h3 {
@@ -204,7 +208,7 @@ a:hover {
 
 .nr-teaching p,
 .nr-teaching li {
-  color: #1e3a8a;
+  color: var(--section-detail-color);
 }
 
 .nr-teaching .course-list h3 {
@@ -222,6 +226,22 @@ a:hover {
 .nr-contact p,
 .nr-contact li {
   color: #334155;
+}
+
+body.tone-darkblue {
+  --section-detail-color: #1e3a8a;
+}
+
+body.tone-charcoal {
+  --section-detail-color: #1f2937;
+}
+
+body.tone-slate {
+  --section-detail-color: #334155;
+}
+
+body.tone-black {
+  --section-detail-color: #111827;
 }
 
 .course-list {

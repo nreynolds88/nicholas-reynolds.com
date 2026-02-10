@@ -2,6 +2,16 @@
 title: ""
 ---
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const tone = new URLSearchParams(window.location.search).get("tone");
+  const allowed = ["darkblue", "charcoal", "slate", "black"];
+  if (allowed.includes(tone)) {
+    document.body.classList.add("tone-" + tone);
+  }
+});
+</script>
+
 :::{#top .nr-home}
 :::{.nr-hero}
 <img src="nicholas_reynolds_headshot.jpg" alt="Nicholas Reynolds" class="nr-headshot">
