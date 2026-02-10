@@ -74,6 +74,9 @@ a:hover {
 }
 
 .navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1030;
   border-bottom: 1px solid #dbe3ea;
   background: #ffffff !important;
 }
