@@ -187,6 +187,10 @@ a:hover {
 
 .nr-research p,
 .nr-research li {
+  color: #1e3a8a;
+}
+
+.nr-research .research-card h3 {
   color: #0f766e;
 }
 
@@ -200,7 +204,11 @@ a:hover {
 
 .nr-teaching p,
 .nr-teaching li {
-  color: #9a3412;
+  color: #1e3a8a;
+}
+
+.nr-teaching .course-list h3 {
+  color: #c2410c;
 }
 
 .nr-contact {
