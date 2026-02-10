@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "CLAUDE.md\nUse AGENTS.md as the primary operating guide for this repository.\nKey points:\n\nEdit source on master.\nDo not hand-edit gh-pages; deployment is automated.\nMain content files: index.qmd, research.qmd, teaching.qmd, contact.qmd.\nStyle file: styles.css.\nPDF assets live in papers/.\nAdd PDF links using relative paths like papers/filename.pdf.\nDo not rewrite prose unless explicitly requested; prefer layout/styling-only edits.\nDeployment workflow: .github/workflows/publish.yml."
+  },
+  {
+    "objectID": "AGENTS.html",
+    "href": "AGENTS.html",
+    "title": "Agent Instructions",
+    "section": "",
+    "text": "This repository is the source for nicholas-reynolds.com.\n\n\n\nKeep editable source on master.\nThe rendered static site is deployed automatically to gh-pages via GitHub Actions.\nDo not edit gh-pages by hand except for emergency recovery.\n\n\n\n\n\n_quarto.yml: site config, navbar, theme wiring, and static resources.\nindex.qmd, research.qmd, teaching.qmd, contact.qmd: page content.\nstyles.css: typography, spacing, card styles, and mobile tweaks.\npapers/: PDF assets that must remain accessible on the live site.\n.github/workflows/publish.yml: render + deploy workflow.\n\n\n\n\n\nDo not rewrite prose by default. Only change wording when the user explicitly requests text edits.\nFor layout-only requests, keep existing copy verbatim and only modify structure/styling/link presentation.\nUpdate biography, affiliations, links, and featured paper placement on index.qmd when requested.\nUpdate publications and paper links on research.qmd when requested.\nKeep PDF filenames stable when possible to avoid broken links.\nAdd new PDFs under papers/ and link to them with relative paths such as papers/filename.pdf.\nIf adding a custom domain, store it in a root CNAME file on master; the workflow will copy it to _site/CNAME.\n\n\n\n\n\nRender locally: quarto render\nPreview locally: quarto preview\n\n\n\n\n\nPreserve existing PDFs in papers/ unless explicitly removing deprecated files.\nIf deployment changes are needed, edit .github/workflows/publish.yml, not GitHub UI defaults."
+  },
+  {
+    "objectID": "AGENTS.html#branch-and-deployment-model",
+    "href": "AGENTS.html#branch-and-deployment-model",
+    "title": "Agent Instructions",
+    "section": "",
+    "text": "Keep editable source on master.\nThe rendered static site is deployed automatically to gh-pages via GitHub Actions.\nDo not edit gh-pages by hand except for emergency recovery."
+  },
+  {
+    "objectID": "AGENTS.html#project-layout",
+    "href": "AGENTS.html#project-layout",
+    "title": "Agent Instructions",
+    "section": "",
+    "text": "_quarto.yml: site config, navbar, theme wiring, and static resources.\nindex.qmd, research.qmd, teaching.qmd, contact.qmd: page content.\nstyles.css: typography, spacing, card styles, and mobile tweaks.\npapers/: PDF assets that must remain accessible on the live site.\n.github/workflows/publish.yml: render + deploy workflow."
+  },
+  {
+    "objectID": "AGENTS.html#content-editing-rules",
+    "href": "AGENTS.html#content-editing-rules",
+    "title": "Agent Instructions",
+    "section": "",
+    "text": "Do not rewrite prose by default. Only change wording when the user explicitly requests text edits.\nFor layout-only requests, keep existing copy verbatim and only modify structure/styling/link presentation.\nUpdate biography, affiliations, links, and featured paper placement on index.qmd when requested.\nUpdate publications and paper links on research.qmd when requested.\nKeep PDF filenames stable when possible to avoid broken links.\nAdd new PDFs under papers/ and link to them with relative paths such as papers/filename.pdf.\nIf adding a custom domain, store it in a root CNAME file on master; the workflow will copy it to _site/CNAME."
+  },
+  {
+    "objectID": "AGENTS.html#local-commands",
+    "href": "AGENTS.html#local-commands",
+    "title": "Agent Instructions",
+    "section": "",
+    "text": "Render locally: quarto render\nPreview locally: quarto preview"
+  },
+  {
+    "objectID": "AGENTS.html#notes",
+    "href": "AGENTS.html#notes",
+    "title": "Agent Instructions",
+    "section": "",
+    "text": "Preserve existing PDFs in papers/ unless explicitly removing deprecated files.\nIf deployment changes are needed, edit .github/workflows/publish.yml, not GitHub UI defaults."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: nicholas.reynolds@essex.ac.uk\nGoogle Scholar: Profile\nUniversity of Essex: Profile"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: nicholas.reynolds@essex.ac.uk\nGoogle Scholar: Profile\nUniversity of Essex: Profile"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\nDepartment of Economics\nUniversity of Essex"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicholas Reynolds",
+    "section": "",
+    "text": "I’m a labor and health economist at the University of Essex.\nMuch of my research focuses on the health and human capital of Americans and innovation.\n\nCV Google Scholar University Profile Email\n\n\n\n\n\n\n2025 | AER: Insights lead article. The Broad Decline in Health and Human Capital of Americans Born after 1947.\n2025 | AEA Featured Chart. Figure 1 selected as an AEA Featured Chart.\nOct 2025 | LSE Business Review. What caused the American decline of the past 60 years?.\nAug 2024 | Commentary. Marginal Revolution and Bloomberg Opinion.\n\n\n\n\n\n\n\n\n\n\nAmerican Economic Review: Insights (Lead article)\nLinks: Journal version | Working paper version\n\n\n\n\n\nJournal of Human Resources\nLinks: Journal version | Working paper version | Appendices\n\n\n\n\n\nWith Ina Ganguli (UMass Amherst) and Jeffrey Lin (Philadelphia Fed)\nAmerican Economic Journal: Applied Economics\nLinks: Journal version | Working paper version\n\n\n\n\n\n\n\n\nWith Ina Ganguli (UMass Amherst), Jeffrey Lin (Philadelphia Fed), and Vitaly Meursault (Philadelphia Fed)\nNotes: NBER WP; presented at NBER Summer Institute 2025.\nLinks: Paper\n\n\n\n\n\nNotes: IZA discussion paper; submitted.\nLinks: Paper\n\n\n\n\n\nWith Sam Arenberg (Houston) and Sam Stripling\nNotes: Prepared for general science journals; presented at NBER Summer Institute 2025.\nLinks: Paper\n\n\n\n\n\nLinks: Paper\n\n\n\n\n\n\n\n\nWith Sam Arenberg (Houston) and Sam Stripling\n\n\n\n\n\nWith Michel Serafinelli (KCL)\n\n\n\n\n\nWith Jeffrey Lin (Philadelphia Fed) and Bryan Stuart (Philadelphia Fed)\n\n\n\n\n\n\n\n\nMuch longer version of what became the AER: Insights paper. Also includes results that turned into the “Stunted Adolescence” and “Local Average Cohort Effects” working papers, plus additional material.\nLinks: Long version\n\n\n\n\n\nBelow is a list of courses taught at the University of Essex.\n\n\n\nUniversity of Essex\nCourse taught in 2021-2025.\n\n\n\n\nUniversity of Essex\nCourse taught in 2021-2024.\n\n\n\n\nUniversity of Essex\nCourse taught in 2023-2025.\n\n\nPlease email me if you’re interested in my teaching materials.\n\n\n\n\n\nEmail: nicholas.reynolds@essex.ac.uk\nGoogle Scholar: Profile\nUniversity of Essex: Profile\n\n\n\n\nDepartment of Economics\nUniversity of Essex"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Nicholas Reynolds",
+    "section": "",
+    "text": "2025 | AER: Insights lead article. The Broad Decline in Health and Human Capital of Americans Born after 1947.\n2025 | AEA Featured Chart. Figure 1 selected as an AEA Featured Chart.\nOct 2025 | LSE Business Review. What caused the American decline of the past 60 years?.\nAug 2024 | Commentary. Marginal Revolution and Bloomberg Opinion."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Nicholas Reynolds",
+    "section": "",
+    "text": "American Economic Review: Insights (Lead article)\nLinks: Journal version | Working paper version\n\n\n\n\n\nJournal of Human Resources\nLinks: Journal version | Working paper version | Appendices\n\n\n\n\n\nWith Ina Ganguli (UMass Amherst) and Jeffrey Lin (Philadelphia Fed)\nAmerican Economic Journal: Applied Economics\nLinks: Journal version | Working paper version\n\n\n\n\n\n\n\n\nWith Ina Ganguli (UMass Amherst), Jeffrey Lin (Philadelphia Fed), and Vitaly Meursault (Philadelphia Fed)\nNotes: NBER WP; presented at NBER Summer Institute 2025.\nLinks: Paper\n\n\n\n\n\nNotes: IZA discussion paper; submitted.\nLinks: Paper\n\n\n\n\n\nWith Sam Arenberg (Houston) and Sam Stripling\nNotes: Prepared for general science journals; presented at NBER Summer Institute 2025.\nLinks: Paper\n\n\n\n\n\nLinks: Paper\n\n\n\n\n\n\n\n\nWith Sam Arenberg (Houston) and Sam Stripling\n\n\n\n\n\nWith Michel Serafinelli (KCL)\n\n\n\n\n\nWith Jeffrey Lin (Philadelphia Fed) and Bryan Stuart (Philadelphia Fed)\n\n\n\n\n\n\n\n\nMuch longer version of what became the AER: Insights paper. Also includes results that turned into the “Stunted Adolescence” and “Local Average Cohort Effects” working papers, plus additional material.\nLinks: Long version"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Nicholas Reynolds",
+    "section": "",
+    "text": "Below is a list of courses taught at the University of Essex.\n\n\n\nUniversity of Essex\nCourse taught in 2021-2025.\n\n\n\n\nUniversity of Essex\nCourse taught in 2021-2024.\n\n\n\n\nUniversity of Essex\nCourse taught in 2023-2025.\n\n\nPlease email me if you’re interested in my teaching materials."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Nicholas Reynolds",
+    "section": "",
+    "text": "Email: nicholas.reynolds@essex.ac.uk\nGoogle Scholar: Profile\nUniversity of Essex: Profile"
+  },
+  {
+    "objectID": "index.html#office",
+    "href": "index.html#office",
+    "title": "Nicholas Reynolds",
+    "section": "",
+    "text": "Department of Economics\nUniversity of Essex"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Below is a list of courses taught at the University of Essex.\n\n\nUndergraduate Health Economics\nUniversity of Essex\nCourse taught in 2021-2025.\n\n\n\nPhD Applied Research Methods (Causal Inference)\nUniversity of Essex\nCourse taught in 2021-2024.\n\n\n\nMasters-level Introduction to Economics and Public Policy (co-lecturer)\nUniversity of Essex\nCourse taught in 2023-2025.\n\n\nPlease email me if you’re interested in my teaching materials."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "American Economic Review: Insights (Lead article)\nLinks: Journal version | Working paper version\n\n\n\n\n\nJournal of Human Resources\nLinks: Journal version | Working paper version | Appendices\n\n\n\n\n\nWith Ina Ganguli (UMass Amherst) and Jeffrey Lin (Philadelphia Fed)\nAmerican Economic Journal: Applied Economics\nLinks: Journal version | Working paper version"
+  },
+  {
+    "objectID": "research.html#accepted-and-published-papers",
+    "href": "research.html#accepted-and-published-papers",
+    "title": "Research",
+    "section": "",
+    "text": "American Economic Review: Insights (Lead article)\nLinks: Journal version | Working paper version\n\n\n\n\n\nJournal of Human Resources\nLinks: Journal version | Working paper version | Appendices\n\n\n\n\n\nWith Ina Ganguli (UMass Amherst) and Jeffrey Lin (Philadelphia Fed)\nAmerican Economic Journal: Applied Economics\nLinks: Journal version | Working paper version"
+  },
+  {
+    "objectID": "research.html#new-working-papers",
+    "href": "research.html#new-working-papers",
+    "title": "Research",
+    "section": "New Working Papers",
+    "text": "New Working Papers\n\n\nPatent Text and Long-Run Innovation Dynamics: The Critical Role of Model Selection\nWith Ina Ganguli (UMass Amherst), Jeffrey Lin (Philadelphia Fed), and Vitaly Meursault (Philadelphia Fed)\nNotes: NBER WP; presented at NBER Summer Institute 2025.\nLinks: Paper\n\n\n\n\nStunted Adolescence: The Anomalous Growth Pattern of Americans Born in the 1960s\nNotes: IZA discussion paper; submitted.\nLinks: Paper\n\n\n\n\nCandidate Origins of the Recent Stagnation in Midlife Mortality in the United States\nWith Sam Arenberg (Houston) and Sam Stripling\nNotes: Prepared for general science journals; presented at NBER Summer Institute 2025.\nLinks: Paper\n\n\n\n\nLocal Average Cohort Effects\nLinks: Paper"
+  },
+  {
+    "objectID": "research.html#selected-work-in-progress",
+    "href": "research.html#selected-work-in-progress",
+    "title": "Research",
+    "section": "Selected Work In Progress",
+    "text": "Selected Work In Progress\n\n\nThe Cohort Signature of American Mortality Stagnation\nWith Sam Arenberg (Houston) and Sam Stripling\n\n\n\n\nDeindustrialization as a Double-edged Sword: Employment and Environmental Effects\nWith Michel Serafinelli (KCL)\n\n\n\n\nSorting, Neighborhood Effects, and Intergenerational Mobility in Spatial Equilibrium\nWith Jeffrey Lin (Philadelphia Fed) and Bryan Stuart (Philadelphia Fed)"
+  },
+  {
+    "objectID": "research.html#old-working-papers",
+    "href": "research.html#old-working-papers",
+    "title": "Research",
+    "section": "Old Working Papers",
+    "text": "Old Working Papers\n\n\nThe Broad Decline in Health and Human Capital of Americans Born after 1947\nMuch longer version of what became the AER: Insights paper. Also includes results that turned into the “Stunted Adolescence” and “Local Average Cohort Effects” working papers, plus additional material.\nLinks: Long version"
+  }
+]
