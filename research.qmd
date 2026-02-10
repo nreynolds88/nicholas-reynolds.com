@@ -18,7 +18,7 @@ Links: [Journal version](https://www.aeaweb.org/articles?id=10.1257/aeri.2023058
 ### Increased Mortality of White Americans and a Decline in the Health of Cohorts Born after World War II
 *Journal of Human Resources*
 
-Links: [Working paper version](papers/reynolds_mortality.pdf) | [Appendices](papers/reynolds_mortality_appendices.pdf)
+Links: [Journal version](https://doi.org/10.3368/jhr.0620-10973r3) | [Working paper version](papers/reynolds_mortality.pdf) | [Appendices](papers/reynolds_mortality_appendices.pdf)
 :::
 :::
 
@@ -28,7 +28,7 @@ Links: [Working paper version](papers/reynolds_mortality.pdf) | [Appendices](pap
 With Ina Ganguli (UMass Amherst) and Jeffrey Lin (Philadelphia Fed)  
 *American Economic Journal: Applied Economics*
 
-Links: [Working paper version](papers/wp17-44r.pdf)
+Links: [Journal version](https://doi.org/10.1257/app.20180017) | [Working paper version](papers/wp17-44r.pdf)
 :::
 :::
 
