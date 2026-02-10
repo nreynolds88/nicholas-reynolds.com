@@ -172,11 +172,21 @@ a:hover {
   color: #1d4ed8;
 }
 
+.nr-news p,
+.nr-news li {
+  color: #1d4ed8;
+}
+
 .nr-research {
   border-top: 4px solid #0f766e;
 }
 
 .nr-research h2 {
+  color: #0f766e;
+}
+
+.nr-research p,
+.nr-research li {
   color: #0f766e;
 }
 
@@ -188,11 +198,21 @@ a:hover {
   color: #9a3412;
 }
 
+.nr-teaching p,
+.nr-teaching li {
+  color: #9a3412;
+}
+
 .nr-contact {
   border-top: 4px solid #334155;
 }
 
 .nr-contact h2 {
+  color: #334155;
+}
+
+.nr-contact p,
+.nr-contact li {
   color: #334155;
 }
 
