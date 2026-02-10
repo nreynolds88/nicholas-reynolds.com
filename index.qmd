@@ -5,7 +5,7 @@ title: ""
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const tone = new URLSearchParams(window.location.search).get("tone");
-  const allowed = ["darkblue", "charcoal", "slate", "black"];
+  const allowed = ["darkblue", "charcoal", "slate", "black", "headings"];
   if (allowed.includes(tone)) {
     document.body.classList.add("tone-" + tone);
   }
