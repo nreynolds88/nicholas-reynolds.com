@@ -75,19 +75,19 @@ Links: [Journal version](https://doi.org/10.1257/app.20180017) | [Working paper 
 
 :::{.card .research-card}
 ::: {.card-body}
-### Patent Text and Long-Run Innovation Dynamics: The Critical Role of Model Selection
+### Spreading Out Across Expanding Idea Space
 With Ina Ganguli (UMass Amherst), Jeffrey Lin (Philadelphia Fed), and Vitaly Meursault (Philadelphia Fed)
 
-Notes: NBER WP; presented at NBER Summer Institute 2025.  
-Links: [Paper](papers/GLMR-PTLRID.pdf)
+Notes: Sections 3 and 4 update and subsume previous working paper "Patent Text and Long-Run Innovation Dynamics: The Critical Role of Model Selection" ([NBER Working Paper 32934](https://www.nber.org/papers/w32934)). Presented at NBER Summer Institute 2025; scheduled for NBER Summer Institute 2026. March 2026.  
+Links: [Paper](papers/GLMR-EIS.pdf) | [Slides](https://jlin.org/talk/GLMR-EIS-talk.pdf) | [US Patent Embeddings 1836-2023](https://www.dropbox.com/scl/fo/x6dmtxzxlqv30k17mey25/ALIbNx974cj1jGP91YReNpk?rlkey=mpyi1u9y2xlyt6x9rzaw5apqw&dl=0)
 :::
 :::
 
 :::{.card .research-card}
 ::: {.card-body}
-### Stunted Adolescence: The Anomalous Growth Pattern of Americans Born in the 1960s
-Notes: IZA discussion paper; submitted.  
-Links: [Paper](papers/reynolds_stunted_adolescence.pdf)
+### Three Regimes of Human Development in Twentieth-Century America: Biological Growth, Health, and Human Capital
+Notes: Subsumes previous working paper "Stunted Adolescence: The Anomalous Growth Pattern of Americans Born in the 1960s". Presented at LSE Historical Economic Demography Working Group and Harvard/BU Economic History Seminar. April 2026.  
+Links: [Slides](papers/reynolds_three_regimes_harvard_slides.pdf)
 :::
 :::
 
@@ -114,6 +114,8 @@ Links: [Paper](papers/reynolds_local_average_cohort_effects.pdf)
 ::: {.card-body}
 ### The Cohort Signature of American Mortality Stagnation
 With Sam Arenberg (Houston) and Sam Stripling
+
+Links: [Slides](papers/reynolds_cohort_signature_slides.pdf)
 :::
 :::
 
