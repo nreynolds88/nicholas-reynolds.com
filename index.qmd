@@ -93,6 +93,16 @@ Links: [Slides](papers/reynolds_three_regimes_harvard_slides.pdf)
 
 :::{.card .research-card}
 ::: {.card-body}
+### The Signature of a Mid-century Cohort Malaise
+With Sam Arenberg (Houston) and Sam Stripling
+
+Notes: Presented at Federal Reserve Bank of Philadelphia and Brookings Institution. November 2025.  
+Links: [Paper](papers/reynolds_paper_signature.pdf) | [Slides](papers/reynolds_cohort_signature_slides.pdf)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
 ### Candidate Origins of the Recent Stagnation in Midlife Mortality in the United States
 With Sam Arenberg (Houston) and Sam Stripling
 
@@ -112,15 +122,6 @@ Links: [Paper](papers/reynolds_local_average_cohort_effects.pdf)
 
 :::{.card .research-card}
 ::: {.card-body}
-### The Cohort Signature of American Mortality Stagnation
-With Sam Arenberg (Houston) and Sam Stripling
-
-Links: [Slides](papers/reynolds_cohort_signature_slides.pdf)
-:::
-:::
-
-:::{.card .research-card}
-::: {.card-body}
 ### Deindustrialization as a Double-edged Sword: Employment and Environmental Effects
 With Michel Serafinelli (KCL)
 :::
@@ -130,6 +131,12 @@ With Michel Serafinelli (KCL)
 ::: {.card-body}
 ### Sorting, Neighborhood Effects, and Intergenerational Mobility in Spatial Equilibrium
 With Jeffrey Lin (Philadelphia Fed) and Bryan Stuart (Philadelphia Fed)
+:::
+:::
+
+:::{.card .research-card}
+::: {.card-body}
+### Falling Shares and a Diverging Top Tail: The Distribution of Income Across and Within Cohorts in the United States
 :::
 :::
 
